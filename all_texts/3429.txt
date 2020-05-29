@@ -1,0 +1,20 @@
+Хтось питався, як отримати студентську ліцензію AutoCAD. Доповідаю: Наш університет не має програми взаємодії з Autodesk, але це жодним чином не заважає отримувати студентські ліцензії. Алгоритм: 1.Створити акаунт на https://accounts.autodesk.com/register, вказати на початку 
+Coutry=Ukraine
+Educational Role = Student
+Institution Type = University
+2.Підтвердити електронну пошту
+3.Після підтвердження запитає відомості про університет. вказати назву
+National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute”
+та період навчання.
+4.Після продовження система зауважить
+The record doesn’t exist in our database
+натиснути
+ADD IT TO OUR RECORDS?
+вказати ту саму назву університету,
+City=Kyiv, State=Kyiv
+додати
+5.Після цього поверне на форму уточнення освітніх даних, натистути "Continut" і акаунт буде підтверджений
+6.Далі заходити на 
+https://www.autodesk.com/education/free-software/autocad#
+Обирати версію, ОС та мову (краще English) та отримати серійний номер, код та інсталятор.
+7. Enjoy

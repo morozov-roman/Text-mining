@@ -1,0 +1,2 @@
+Оплата с помощью Привата доступна по этой ссылке: 
+https://next.privat24.ua/payments/form/%7B%22companyID%22:%223568714%22,%22form%22:%7B%22query%22:%22%D0%9A%D0%9F%D0%86%20%D1%96%D0%BC.%20%D0%86%D0%B3%D0%BE%D1%80%D1%8F%20%D0%A1%D1%96%D0%BA%D0%BE%D1%80%D1%81%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%22%7D%7D
